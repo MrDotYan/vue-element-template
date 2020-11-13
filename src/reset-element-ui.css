@@ -1,0 +1,12 @@
+.el-main,
+.el-header {
+  padding: 0px;
+}
+
+.el-menu--horizontal>.el-menu-item,
+.el-menu--horizontal>.el-submenu {
+  float: right;
+}
+.el-menu {
+  border-right: none;
+}
